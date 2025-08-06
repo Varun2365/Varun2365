@@ -13,7 +13,7 @@
 ### 💻 What I'm Building
 
 -   📱 I'm a full-stack enthusiast, crafting robust applications with **Flutter** for mobile and the **MERN** stack for the web.
--   🤖 My passion truly lies in **AI & Embedded Systems**, where I enjoy working on intelligent hardware using **STM32** and **ESP32** chips.
+-   🤖 My passion truly lies in **AI & Embedded Systems**, where I enjoy working on intelligent hardware using **ESP32** chips.
 -   🚀 Always learning and growing. I'm currently on a journey to sharpen my problem-solving skills on **LeetCode**.
 
 ---
@@ -22,10 +22,11 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=flutter,bloc,html,css,js,react" alt="Frontend & Mobile" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=flutter,html,css,js,react" alt="Frontend & Mobile" /> |
 | **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" /> |
-| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI / Machine Learning" /> |
-| **Embedded Systems** | <img src="https://skillicons.dev/icons?i=c,cpp,stm32,linux,arduino" alt="Embedded Systems" /> |
+| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI & Machine Learning" /> |
+| **Embedded Systems** | <img src="https://skillicons.dev/icons?i=c,cpp,arduino,linux" alt="Embedded Systems" /> |
+| **Design & Productivity** | <img src="https://skillicons.dev/icons?i=ps,pr,canva,office365" alt="Design & Productivity" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,docker" alt="Tools" /> |
 
 ---
