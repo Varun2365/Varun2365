@@ -31,11 +31,10 @@
 
 ---
 
-### 🌐 My GitHub Stats
+### 📚 What I'm Learning Right Now
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun2365&show_icons=true&theme=buefy" alt="Varun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2365&layout=compact&theme=buefy" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,rust" alt="Learning Next.js, Tailwind, Rust" />
 </p>
 
 ---
