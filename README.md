@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/97960300/150148705-d143c7b7-68b4-4e20-94f4-5b486307a33f.gif" alt="GitHub Readme Header" width="600" />
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Varun Kumar 👋</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile views" />
