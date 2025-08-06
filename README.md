@@ -31,11 +31,13 @@
 
 ---
 
-### 📚 What I'm Learning Right Now
+### ✨ My Top Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,rust" alt="Learning Next.js, Tailwind, Rust" />
-</p>
+| Project Name | Description |
+| :--- | :--- |
+| **AI-Based Deepfake Detection Model** | _Developed a robust model to identify and flag manipulated media, contributing to digital authenticity and security._ |
+| **Flutter-Based Billing Software** | _Created a user-friendly mobile application for small businesses to manage invoicing, inventory, and sales reports._ |
+| **Industrial Data Logging IoT System** | _Designed and implemented an embedded system using ESP32 to monitor and log industrial sensor data, improving operational efficiency._ |
 
 ---
 
