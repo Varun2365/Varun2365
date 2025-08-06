@@ -13,7 +13,7 @@
 ### 💻 What I'm Building
 
 -   📱 I'm a full-stack enthusiast, crafting robust applications with **Flutter** for mobile and the **MERN** stack for the web.
--   🤖 My passion truly lies in **AI & Embedded Systems**, where I enjoy working on intelligent hardware using **ESP32** chips.
+-   🤖 My passion also lies in **AI & Embedded Systems**, where I enjoy working on intelligent hardware using **ESP32** & **STM32** chips.
 -   🚀 Always learning and growing. I'm currently on a journey to sharpen my problem-solving skills on **LeetCode**.
 
 ---
