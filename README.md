@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Q81NCSY9zG8aJ89yU5/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://raw.githubusercontent.com/Varun2365/Varun2365/main/assets/readme-header.gif" alt="Animated Coding Header" width="600" />
 </div>
 
 <h1 align="center">Hey there! I'm Varun Kumar 👋</h1>
@@ -20,10 +20,13 @@
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mongodb,python,c,cpp,git,linux,aws,docker" alt="My Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=stm32,esp32" alt="Embedded Systems" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=flutter,bloc,html,css,js,react" alt="Frontend & Mobile" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" /> |
+| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI / Machine Learning" /> |
+| **Embedded Systems** | <img src="https://skillicons.dev/icons?i=c,cpp,stm32,linux,arduino" alt="Embedded Systems" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,docker" alt="Tools" /> |
 
 ---
 
