@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkM3RzN2IycjE4NzI5a2NlZjdjcGZyejFwa2h0bGFjZGQ1OWk0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9Qnzws/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://via.placeholder.com/600x200/ADD8E6/000000?Text=Your+Creative+Header+Image+Here" alt="Creative Header" width="600" />
 </p>
 
 <h1 align="center">Hey there! I'm Varun Kumar 👋</h1>
@@ -21,26 +21,8 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/stmicroelectronics/stmicroelectronics-icon.svg" alt="STM32" width="50" height="50"/>
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mongodb,python,cplusplus" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -57,9 +39,17 @@
 
 ### 🔗 Let's Connect
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/your-linkedin-profile)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30"/>](https://twitter.com/your-twitter-handle)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" width="30"/>](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="30"/>
+  </a>
+</p>
 
 ---
 
